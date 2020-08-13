@@ -1,2 +1,2 @@
-# html_project.github.io
-This is my HTML project
+# first-html-project.github.io
+This is my first HTML project. 
